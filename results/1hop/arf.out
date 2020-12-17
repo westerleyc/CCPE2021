@@ -1,0 +1,35 @@
+Netlist file: list/arf.in   Architecture File: 
+Array size: 6 x 6 logic blocks
+
+#block name	x	y	subblk	block number
+#----------	--	--	------	------------
+MUL_1		5	7
+MUL_2		7	6
+MUL_3		0	3
+MUL_4		0	1
+MUL_5		1	7
+MUL_6		0	6
+MUL_7		5	0
+MUL_8		7	1
+ADD_9		5	6
+ADD_10		2	3
+ADD_11		1	6
+ADD_12		5	1
+ADD_27		6	6
+ADD_13		2	5
+ADD_14		2	6
+ADD_28		5	2
+out:ADD_27		6	7
+MUL_15		1	5
+MUL_17		2	4
+MUL_16		3	6
+MUL_18		4	6
+out:ADD_28		7	2
+ADD_19		3	5
+ADD_20		4	4
+MUL_21		4	5
+MUL_23		3	4
+MUL_22		6	4
+MUL_24		4	2
+ADD_25		6	5
+ADD_26		3	2
